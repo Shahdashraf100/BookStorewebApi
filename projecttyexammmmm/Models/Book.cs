@@ -3,7 +3,7 @@
 namespace projecttyexammmmm.Models
 {
     public class Book
-    {
+    {//uppp
         [Key]
         public int BookId { get; set; }
         public string BookTitle { get; set; }

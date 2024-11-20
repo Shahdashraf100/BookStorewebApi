@@ -4,7 +4,7 @@ namespace projecttyexammmmm.Models
 {
     public class Idenitycart    
     {
-        [Key]
+        [Key]//kkk
         public int IdentitycartId { get; set; }
         public DateTime IdentitycartExpireDate { get; set; }
         public Author author { get; set; }

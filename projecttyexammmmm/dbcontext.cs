@@ -7,7 +7,7 @@ namespace projecttyexammmmm
     {
         public dbcontext(DbContextOptions options) : base(options)
         {
-        }
+        }//shahd
         public DbSet<Gener> Geners { get; set; }
         public DbSet<Author> Authors { get; set; }
         public DbSet<Creadetcart> Creadcarts { get; set; }

@@ -6,7 +6,7 @@ namespace projecttyexammmmm.Models
     {
         [Key]//kkkl
         //ll
-        public int IdentitycartId { get; set; }
+        public int IdentitycartId { get; set; }//klkl,mm
         public DateTime IdentitycartExpireDate { get; set; }
         public Author author { get; set; }
         public int AuthorId {  get; set; }
